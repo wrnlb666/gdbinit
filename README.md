@@ -5,5 +5,5 @@ My gdbinit file
 ## Installation
 ```sh
 git clone git@github.com:wrnlb666/gdbinit.git
-ln -s $(pwd)/gdbinit/.gdbinit ~/
+ln -s -f $(pwd)/gdbinit/.gdbinit ~/
 ```
